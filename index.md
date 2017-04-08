@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Ezeadichie Onyeka Michael GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/mezeadichie/learning/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
